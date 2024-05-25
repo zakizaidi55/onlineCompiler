@@ -38,7 +38,7 @@ function CodeEditor() {
                     />;
         
             </Box>
-            <Output editorRef = {editorRef} language={language}/>
+            <Output editorRef={editorRef} language={language}/>
         </HStack>
     </Box>
   )
